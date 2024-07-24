@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+    background-color: black;
+    display: grid;
+    place-content: center;
+    color: whitesmoke;
+    min-height: 100vh;
+}
+.App{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
